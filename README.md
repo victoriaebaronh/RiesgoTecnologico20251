@@ -54,7 +54,7 @@ Sigue los pasos para ejecutar el proyecto en tu máquina local:
 
 ## Documentación Completa
 La documentación completa del proyecto está disponible en el siguiente enlace:  
-[Documentación del Proyecto](https://drive.google.com/drive/folders/1VVyAmIR5wZhjmK_LcMOSLZq4gyjHkf3g?usp=sharing)
+[Documentación del Proyecto](https://drive.google.com/file/d/1ZR3MvyJaXmK-wsa0UMylEHhARkuKYgZ5/view?usp=drive_link)
 
 ## Tecnologías Utilizadas
 - **Backend**: Django
