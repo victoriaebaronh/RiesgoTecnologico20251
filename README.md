@@ -62,7 +62,7 @@ La documentación completa del proyecto está disponible en el siguiente enlace:
 - **Base de datos**: SQLite
 
 ## Elaborado por:
-**BitBrain**  
+[**BitBrain**](https://alonso280801.github.io/BitBrain-/Web%20BitBrain.html)
 - Victoria Elena Barón Herrera  
 - Neri Figueroa Pérez  
 - Jonatan Jesús Fuentes Hernández  
